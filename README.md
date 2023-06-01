@@ -23,7 +23,7 @@ The workshop materials are designed with Jupyter Notebooks. To run the models, t
 - Image Generation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_MstGBjZ_BjjcpSPyPLrAIirE7Ow3TwL#scrollTo=86V_AEsdKpGC]
 - Music Generation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kQgR3Kh_ifnIONKWIi9KI5rTS0aX8CYV#scrollTo=j2KWYhjk37qs]
 - Speech Generation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o-5-WmCtYAMoeZT9Z-ET0Hpek8UqIGIt#scrollTo=LUC-egytPAsz]
-- Text Generation [![Open In Colab](https://colab.research.google.com/drive/1Yb9swkxo4ckFHlA9Hn3GBj6PQwRvy5tK)]
+- Text Generation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Yb9swkxo4ckFHlA9Hn3GBj6PQwRvy5tK]
 
 ## Reuse
 
