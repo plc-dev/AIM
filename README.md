@@ -20,13 +20,13 @@ Each module consists of a theoretical part and a practical part. The theoretical
 The workshop materials are designed with Jupyter Notebooks. To run the models, the utilization of a GPU is advised. If no GPU is available locally, Google Colaboraty provides an easy way of running the models in the cloud, free of charge.
 
 ### Colab Notebooks
-- Overview Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1r4ibDEbpXS34N60ht-3gJsaWrW1KMBt8?usp=sharing)]
+- Overview Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1r4ibDEbpXS34N60ht-3gJsaWrW1KMBt8?usp=sharing)
   
-- Image Generation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aZOJuM9lEWV7qz_63mc-fdBbjMEzCQPt)]
-- Music Generation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vlgtOlFZ1JUUM8PH0UP0HWk9RBjSsJU-?usp=sharing)]
-- Speech Generation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o-5-WmCtYAMoeZT9Z-ET0Hpek8UqIGIt#scrollTo=LUC-egytPAsz)]
-- Text Generation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Yb9swkxo4ckFHlA9Hn3GBj6PQwRvy5tK)]
-- Video Generation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PUNdfekY62pflYGqXtH7W-69clmMw_GI?usp=sharing)]
+- Image Generation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aZOJuM9lEWV7qz_63mc-fdBbjMEzCQPt)
+- Music Generation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vlgtOlFZ1JUUM8PH0UP0HWk9RBjSsJU-?usp=sharing)
+- Speech Generation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PUNdfekY62pflYGqXtH7W-69clmMw_GI?usp=sharing)
+- Text Generation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Yb9swkxo4ckFHlA9Hn3GBj6PQwRvy5tK)
+- Video Generation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aAy9bMLZ_-cOsh3cyG8sRqA4Fo6VUIPp?usp=sharing)
 
 ## Reuse
 
