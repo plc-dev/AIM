@@ -31,3 +31,22 @@ The workshop materials are designed with Jupyter Notebooks. To run the models, t
 ## Reuse
 
 Feel free to remix, adapt and reuse the materials for your own workshops. If you do so, please let us know and share your experiences with us. We are happy to hear from you!
+
+## Cite
+If you use AIM in your work, please cite the following:
+```
+@InProceedings{CHRIST2024AIM,
+author    = {Christ, P. and Munkelt, T.},
+title     = {AIM: ARTIFICIAL INTELLIGENCE FOR MULTIMEDIA GENERATION},
+series    = {18th International Technology, Education and Development Conference},
+booktitle = {INTED2024 Proceedings},
+isbn      = {978-84-09-59215-9},
+issn      = {2340-1079},
+doi       = {10.21125/inted.2024.1593},
+url       = {https://doi.org/10.21125/inted.2024.1593},
+publisher = {IATED},
+location  = {Valencia, Spain},
+month     = {4-6 March, 2024},
+year      = {2024},
+pages     = {6061-6068}}
+```
